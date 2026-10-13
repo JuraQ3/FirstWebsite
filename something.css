@@ -3,4 +3,21 @@ h1  {
 }
 
 body  {
-  
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: "🐒";
+}
+
+ul ol {
+  list-style-type: bengali;
+}
+
+.important {
+  font-weight: bold;
+}
+
+.mustafa-special {
+  color: hotping;
+}
